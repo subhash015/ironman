@@ -6,7 +6,7 @@ body{
 .bmw{
     display: inline-block;
     height: 300px;
-    width: min-content;
+    width: auto;
 }
 .skl{
     display: inline-block;
